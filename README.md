@@ -1,5 +1,5 @@
 # Cut-Calculator-for-Exhaust-Tube
-This program calculates the size of cutting pipes needed to make the right angle 
+This program calculates the size of cutting pipes needed to make the right angle.
 
 # how to use
 1. The program is used via the command line
