@@ -1,4 +1,4 @@
-# picture-scale
+# Picture-scale
 This program calculates the size of cutting pipes needed to make the right angle 
 
 # how to use
