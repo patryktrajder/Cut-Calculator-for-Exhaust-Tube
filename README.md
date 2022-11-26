@@ -20,4 +20,7 @@ a = 23.5377 mm
 b = 32.9528 mm
 ```
 
-In the gallery preview photos how the program works and what you can build with it. Goog luck
+In the gallery preview photos how the program works and what you can build with it.
+
+![schemat ciecia](assets/picture/schemat%20ciecia.png)
+![kolanko pospawana z kawałków rur](assets/picture/pipe1.png)
