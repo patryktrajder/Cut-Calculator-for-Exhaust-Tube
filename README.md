@@ -1,4 +1,4 @@
-# Picture-scale
+# Cut-Calculator-for-Exhaust-Tube
 This program calculates the size of cutting pipes needed to make the right angle 
 
 # how to use
